@@ -1,14 +1,14 @@
 # FinTrackPro: Smart Budgeting Assistant using Excel
 
-## Introduction
+## INTRODUCTION
 
 This project is a Personalize Budget Tracker developed in Microsoft Excel. It aims to provide a user-friendly and efficient tool for tracking personal finances, analyzing spending patterns, and making informed financial decisions.
 
-## Problem Statement
+## PROBLEM STATEMENT
 
 Manually tracking expenses and income can be time-consuming and prone to errors. Without a structured system, it becomes difficult to understand spending habits, identify areas for improvement, and effectively manage finances. This project addresses these challenges by providing a centralized platform for recording and analyzing financial data.
 
-## Deployment
+## IMPLEMENTATION
 
 ### Expenses Details:
 
@@ -38,7 +38,7 @@ Category-wise expenses are calculated using the SUMIFS function.
 
 Three charts visualize total monthly expenses and income of a year, total income-total expenses-net savings and category-wise spending.
 
-IncomeUtilization: Percentage of income spent during the selected time frame.
+Income Utilization Rate:Monitor the share of income allocated to expenses during the selected time frame.
 
 Category-wise Totals: Calculate total expenses by category for any given date range, month, or year.
 
