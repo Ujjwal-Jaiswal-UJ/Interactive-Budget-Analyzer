@@ -67,4 +67,4 @@ Percentage of Income Spent: Track the proportion of income used for expenses.
 
 Conditional Formatting: Highlights cash and bank balance cells with different colors based on predefined limits (e.g., green for sufficient balance, red for low balance).
 
-[Mastering Financial Management with FinTrackPro Presentation]("https://www.canva.com/design/DAGad-bJgEg/AVd9z5xmScbbRvvC4SjFqQ/view?utm_content=DAGad-bJgEg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1b174fb19c")
+[Mastering Financial Management with FinTrackPro Presentation](https://www.canva.com/design/DAGad-bJgEg/AVd9z5xmScbbRvvC4SjFqQ/view?utm_content=DAGad-bJgEg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1b174fb19c)
