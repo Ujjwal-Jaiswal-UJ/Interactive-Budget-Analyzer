@@ -69,4 +69,4 @@ Conditional Formatting: Highlights cash and bank balance cells with different co
 
 [Mastering Financial Management with FinTrackPro Presentation](https://www.canva.com/design/DAGad-bJgEg/AVd9z5xmScbbRvvC4SjFqQ/view?utm_content=DAGad-bJgEg&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h1b174fb19c)
 
-[FinTrackPro: Smart Budgeting Assistant - Excel File](https://1drv.ms/x/c/206bbe20bed39524/EYhW2Ls3TgpCnRryWJOc61IBEYD6Sz2yeC7PDyuirHoKOw?e=Wlz4H1)
+[FinTrackPro: Smart Budgeting Assistant - Excel File](https://1drv.ms/x/c/206bbe20bed39524/EWbpuGnOXzZLvnnWZJGpPm0B6Yz1i8ck6NJ_aVoYo0tIfw?e=mr1AbT)
